@@ -1,0 +1,9 @@
+{
+  "logger": {
+    "endpoint": "http://20.244.56.144/evaluation-service/logs",
+    "levels": ["debug", "info", "warn", "error", "fatal"],
+    "stacks": ["frontend", "backend"],
+    "defaultStack": "frontend",
+    "defaultLevel": "info"
+  }
+}
