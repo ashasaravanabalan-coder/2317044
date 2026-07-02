@@ -49,6 +49,7 @@ ScreenShort
 <img width="592" height="478" alt="image" src="https://github.com/user-attachments/assets/3d262575-8a39-400f-8aa0-e6bc1a290c71" />
 <img width="651" height="628" alt="image" src="https://github.com/user-attachments/assets/b436a87f-6cb7-4b2e-851d-261b9f80b3cf" />
 
-
+Video
+https://drive.google.com/file/d/1Kxe-EDVMODgmpC6_9FCupohaRZYyFmbX/view?usp=sharing
 
 
